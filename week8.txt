@@ -1,6 +1,6 @@
 Week8
 หัวข้อ : git basic
 
-สิ่งที่ได้ : git clone
+สิ่งที่ได้ : git clone และการทำงานร่วมกับ(git push,git pull)
 
 สิ่งที่สงสัย : ยังไม่มี
