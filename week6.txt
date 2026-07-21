@@ -1,0 +1,6 @@
+Week6
+หัวข้อ : git basic
+
+สิ่งที่ได้ : git พื้นฐาน git config,-v,status,add
+
+สิ่งที่สงสัย : ยังไม่มี

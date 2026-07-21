@@ -1,4 +1,4 @@
-Week8
+Week7
 หัวข้อ : git basic
 
 สิ่งที่ได้ : gitต่างๆ
